@@ -1,0 +1,9 @@
+Una nueva partida de Dixit2 se ha creado para este chat y se está iniciando.
+
+/unirme [apodo] - te dejará unirte al juego con un apodo o si no tu nombre por defecto.
+/mepiro - te dejará irte del juego.
+/listajugadores - mostrará la lista de todos los jugadores en la partida actual.
+/adios - terminará el juego actual.
+/comenzar - empezará la partida cuando estén todos los jugadores.
+
+Para jugar deberás hablar por privado con @Dixit2_bot.

@@ -1,0 +1,9 @@
+Bienvenido a Dixit2!
+
+Para usarme, tendrás que añadirme a un chat grupal y todo el mundo que quiera jugar tiene que haberme hablado por privado (t.me/Dixit2_bot) poniendo /start.
+
+Comandos:
+
+/hola - Empieza un nuevo juego de Dixit2.
+/reglas - Manda un mensaje con las reglas de Dixit2.
+/help - Manda un mensaje con comandos adicionales e información.

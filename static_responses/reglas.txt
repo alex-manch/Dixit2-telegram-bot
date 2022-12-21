@@ -1,0 +1,9 @@
+Cada ronda mostraré una foto que ha sido mandada en algún momento por el grupo.
+
+Cada uno de los jugadores deberá escribir en el <b>chat privado</b> el mensaje que crea que se parece lo máximo posible al que fue el mensaje original que acompañaba la foto mandada.
+
+Después se mostrarán todas las respuestas junto con la original. Todos los jugadores deberán votar el que creen que fue el mensaje original.
+
+Se llevarán puntos los jugadores que acierten (3 puntos) y aquellos cuyos mensajes hayan conseguido despistar a otros jugadores (1 por voto). La primera persona en llegar a 30 puntos gana.
+
+Además, se otorgarán puntos de <i>gracioso</i> en función de las votaciones de los jugadores.

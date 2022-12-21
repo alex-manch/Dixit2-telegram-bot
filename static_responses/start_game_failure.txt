@@ -1,0 +1,1 @@
+Todos los jugadores deben haber mandado un mensaje al bot para poder unirse al juego (/listajugadores). Usa /cumenzar para empezar el juego cuando estéis listos.

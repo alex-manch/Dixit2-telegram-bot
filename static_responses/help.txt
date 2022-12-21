@@ -1,0 +1,10 @@
+Aquí hay una lista de los comandos que puedo hacer:
+
+/hola - Inicia el juego.
+/unirme - Unirte a un juego iniciandose.
+/mepiro - Te vas del juego iniciandose.
+/listajugadores - Lista de la gente jugando.
+/reglas - Ver las reglas del juego.
+/feedback - Manda feedback al bot.
+/comenzar - Comienza el juego iniciandose.
+/adios - Termina el juego actual.
